@@ -1,0 +1,6 @@
+[
+    {
+        "name": "sample-php-app",
+        "imageUri": "542036681178.dkr.ecr.us-east-2.amazonaws.com/php-demo:latest"
+    }
+]
